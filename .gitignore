@@ -1,5 +1,7 @@
 /venv/
+/.venv/
 /docker/backup/
-/docker/esdata01/
-/docker/eslogs01/
+/docker/esdata01/*
+/docker/eslogs01/*
+/docker/esconfig01/*
 .idea
